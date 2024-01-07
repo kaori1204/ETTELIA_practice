@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+body {
+  font-family: 'Noto Serif JP', serif;
+  font-size: 16px;
+  background-color: rgba(0, 0, 0);
+}
+
+.body_wrapper {
+  max-width: 900px;
+  margin: 0 auto;
+}
